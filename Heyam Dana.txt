@@ -1,0 +1,10 @@
+Heyam Dana 
+Task #1 
+Sorry,I can't connect Internet with a stable network 
+
+the command i used :
+
+git clone https://github.com/TarteelTamimi/SW-Lab.git
+git add . 
+git commit -m "Add heyam file"
+git push 
