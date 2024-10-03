@@ -1,0 +1,7 @@
+git init 
+git add . 
+git commit -m "Init commit"
+git remote add origin https://github.com/TarteelTamimi/SW-Lab.git
+git push -u origin master
+
+
